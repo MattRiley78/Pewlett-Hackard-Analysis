@@ -12,7 +12,7 @@ Management has requested answers to these 2 questions:
 
 - A list has been created that details the titles of current employees born between the years 1952 - 1955.
 ![retirement_titles_output](https://user-images.githubusercontent.com/106561880/180626199-7bed7f14-fb19-4667-b29e-130332cb2b1b.png)
-- This list was then modified to show each of these employees' most recent title.  
+- This list was then modified to remove employees' previous titles and only show their most recent title.  
 ![unique_titles_output](https://user-images.githubusercontent.com/106561880/180626207-048805c9-bf39-4c68-ba4f-c9ac8ecb16f7.png)
 - A summation of this data shows a considerable number of employees that are currently within retirement age.
 ![retiring_titles_output](https://user-images.githubusercontent.com/106561880/180626219-1ed1aa48-1c96-42ee-9e35-a878dd347df5.png)
