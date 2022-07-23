@@ -23,8 +23,10 @@ Management has requested answers to these 2 questions:
 ## Summary and Recommendations
 After analysis of the results, the below are responses to management's questions:
 1. There is a total of 72,458 employees born between the years of 1952 and 1955 that are set to retire.  These roles will ultimately need to be back-filled by current employees.
+
 ![sum_retirement_titles](https://user-images.githubusercontent.com/106561880/180626229-768245a3-ff0f-4392-b039-a0de75aeb5b9.png)
 2. There seems to be significantly less employees born in 1965 that are eligible to mentor employees, compared to the outgoing retirees.  This is also concerning since not all of eligible mentors may want to participate in the program.
+
 ![mentorship_title_count](https://user-images.githubusercontent.com/106561880/180626232-170a8419-97aa-4a33-95c5-dc13355c735b.png)
 
 However, this is an incomplete picture.  Additional tables could be created showing a broader range of employees who are within mentoring age and their titles.  This formula could easily be manipulated to include multiple birth years.  Also, a scope of current, younger employees and a count of their titles could also be created to compare the ratio between mentoring employees possible mentorees.  This could also pair mentors with higher titles with mentorees with lower titles.  
